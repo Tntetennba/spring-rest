@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+<!--	<packaging>war</packaging>-->
 	<name>spring-rest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
